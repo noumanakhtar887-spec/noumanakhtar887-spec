@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Nouman Akhtar 👋
+**Full Stack Developer | AI & Web Development**
 
-<!--
-**noumanakhtar887-spec/noumanakhtar887-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS-IT student and Full Stack Developer at MetaWatt, building AI-powered web products — most notably Kisan Dost AI, a smart farming assistant for Pakistani farmers.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- **🌾 Kisan Dost AI** — AI-powered smart farming assistant for Pakistani farmers. [Live Demo](https://kisan-dost-ai-final.vercel.app) · [Repo](https://github.com/noumanakhtar887-spec/kisan-dost-ai-final)
+- **🏬 Store Management System** — Software to manage all kinds of stores. [Live Demo](https://store-management-system-ecru.vercel.app) · [Repo](https://github.com/noumanakhtar887-spec/Store-Management-System)
+- **🎬 Cinematic Portfolio** — A modern cinematic portfolio website built with Next.js, Tailwind CSS, Framer Motion, GSAP and Lenis. [Live Demo](https://cinematic-portfolio-beryl.vercel.app) · [Repo](https://github.com/noumanakhtar887-spec/cinematic-portfolio)
+- **💼 Personal Portfolio** — My personal portfolio website showcasing my skills, projects, and experience. [Live Demo](https://nouman-portfolio-two.vercel.app) · [Repo](https://github.com/noumanakhtar887-spec/nouman-portfolio)
+- **✅ Todo Monorepo** — Full stack developer assignment (MetaWatt). [Live Demo](https://todo-monorepo-api.vercel.app) · [Repo](https://github.com/noumanakhtar887-spec/todo-monorepo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+JavaScript · TypeScript · Next.js · Tailwind CSS · Framer Motion · GSAP · HTML · CSS
+
+## 📊 GitHub Stats
+![Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=noumanakhtar887-spec&show_icons=true)
+
+## 📫 Let's Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/nouman-akhtar-dev/
+- 🌐 Portfolio: https://nouman-portfolio-two.vercel.app
+- ✉️ Email: noumanakhtar887@gmail.com
